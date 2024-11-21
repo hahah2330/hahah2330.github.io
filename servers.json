@@ -1,6 +1,10 @@
 {
     "servers": [
         {
+            "name": "SideStore",
+            "address": "https://ani.sidestore.io"
+        },
+        {
             "name": "Hahah",
             "address": "https://anisette-v3-server-0c3p.onrender.com"
         },
